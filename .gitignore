@@ -3,3 +3,4 @@ docs
 lib
 include
 *.EXE
+*.OBJ
